@@ -89,15 +89,6 @@ I build things for the web, record covers at 2am, and spend too much time findin
 
 <div align="center">
 
-## 🎵 currently obsessed with
-
-*[PLACEHOLDER — add your current track here]*
-
-> *"music is the only thing that makes sense when nothing else does."*  
-> — me, probably at 3am
-
-</div>
-
 ---
 
 <div align="center">
@@ -106,8 +97,12 @@ I build things for the web, record covers at 2am, and spend too much time findin
 ```
 $ ./about_govind.sh
 
-hi im govind and this is me not some ai i used to write this, i am not an advanced coder i am currently learning and have been experimenting with various advanced tools lol i do know html, css, python, js and sql.
-i am in 12th rn will go to some college ig. i like music, i play music and i listen to music yeah and i like to talk to people too so if you are here make sure to strike a convo with me lol.
+hi im govind and this is me not some ai i used to write this, 
+i am not an advanced coder i am currently learning and have been experimenting with various advanced tools lol
+i do know html, css, python, js and sql.
+i am in 12th rn will go to some college ig. 
+i like music, i play music and i listen to music yeah
+and i like to talk to people too so if you are here make sure to strike a convo with me lol.
 
 ==SYSTEM READY==
 ```
