@@ -115,6 +115,6 @@ and i like to talk to people too so if you are here make sure to strike a convo 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=495867,577399,bdd5ea,f7f7ff,fe5f55&height=100&section=footer" width="100%"/>
 
-*if you've read this far — go check out [nomore.dev](https://nomore.dev)*
+*if you've read this far — go check out [nomore.dev](https://nomore.dev.vercel.app)*
 
 </div>
