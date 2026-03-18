@@ -1,63 +1,63 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=495867,577399,bdd5ea&height=180&section=header&text=hey.%20i'm%20govind.&fontSize=42&fontColor=f7f7ff&fontAlignY=45&desc=developer%20·%20musician%20·%20professional%20procrastinator&descAlignY=68&descColor=bdd5ea&animation=fadeIn" width="100%"/>
+</p>
 ```
-> still loading... please wait...
+> launching govind.exe...
 > error 404: normal person not found
-> launching govind.exe instead ✓
+> loading chaos instead ✓  _
 ```
 
 ---
 
-# hey. i'm govind.
+<img align="right" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GovindNoMore&layout=compact&hide_border=true&title_color=fe5f55&text_color=bdd5ea&bg_color=495867&langs_count=6"/>
 
-developer by day. musician by 2am. sleeping in between.
+### $ whoami
 
-'programmic' coder — i write code the way i write songs: figure it out as i go, break things, fix them, pretend it was intentional.
+- 🌍 &nbsp; uttar pradesh → faridabad
+- 🎸 &nbsp; guitar, piano, drums *(not very well)*
+- 🎵 &nbsp; begum · the strokes · pcrc
+- 💻 &nbsp; aspiring cs major *(lol)*
+- 🌙 &nbsp; do first. think later.
+
+<br clear="right"/>
 
 ---
 
 ### what i'm building
 
-| project | what it does | status |
+| project | what | status |
 |---|---|---|
 | [nomore.dev](https://github.com/GovindNoMore/nomore.dev) | my corner of the internet | 🟢 live |
-| [MusicScope](https://github.com/GovindNoMore/MusicScope) | analyses your spotify taste | 🟢 live |
+| [MusicScope](https://github.com/GovindNoMore/MusicScope) | spotify taste analyser | 🟢 live |
 | [StudyDesk](https://github.com/GovindNoMore/studydesk) | electron study dashboard | 🟢 active |
-| something new | involves music, code, coffee | 🟡 plotting |
+| ??? | something with music + code + coffee | 🟡 plotting |
 
 ---
 
-### the stack i reach for
+### the stack
 
-![HTML](https://img.shields.io/badge/HTML-e8e0d0?style=flat&logoColor=1c1915&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-e8e0d0?style=flat&logoColor=1c1915&logo=css3)
-![JavaScript](https://img.shields.io/badge/JS-e8e0d0?style=flat&logoColor=1c1915&logo=javascript)
-![React](https://img.shields.io/badge/React-e8e0d0?style=flat&logoColor=1c1915&logo=react)
-![Node](https://img.shields.io/badge/Node-e8e0d0?style=flat&logoColor=1c1915&logo=nodedotjs)
-![Electron](https://img.shields.io/badge/Electron-e8e0d0?style=flat&logoColor=1c1915&logo=electron)
-
----
-
-### github in numbers
-
-![Govind's stats](https://github-readme-stats.vercel.app/api?username=GovindNoMore&show_icons=true&hide_border=true&title_color=7c6a52&icon_color=7c6a52&text_color=4a4035&bg_color=f0ece0)
-
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GovindNoMore&layout=compact&hide_border=true&title_color=7c6a52&text_color=4a4035&bg_color=f0ece0)
+![HTML](https://img.shields.io/badge/HTML-%23495867?style=flat-square&logo=html5&logoColor=%23f7f7ff)
+![CSS](https://img.shields.io/badge/CSS-%23577399?style=flat-square&logo=css3&logoColor=%23f7f7ff)
+![JavaScript](https://img.shields.io/badge/JS-%23495867?style=flat-square&logo=javascript&logoColor=%23fe5f55)
+![React](https://img.shields.io/badge/React-%23577399?style=flat-square&logo=react&logoColor=%23f7f7ff)
+![Node](https://img.shields.io/badge/Node-%23495867?style=flat-square&logo=nodedotjs&logoColor=%23f7f7ff)
+![Electron](https://img.shields.io/badge/Electron-%23577399?style=flat-square&logo=electron&logoColor=%23f7f7ff)
 
 ---
 
-### currently on repeat
+### github stats
 
-[![Spotify](https://novatorem-govindnomore.vercel.app/api/spotify)](https://open.spotify.com/user/31h73dol3iywes5zph5eh7irahke)
-
----
-```
-$ whoami
-→ 17. uttar pradesh. faridabad. cs major (aspiring, lol).
-→ guitar, piano, drums (not very well).
-→ favorite bands: begum, the strokes, pcrc.
-→ do first, think later.
-$ _
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GovindNoMore&show_icons=true&hide_border=true&title_color=fe5f55&icon_color=bdd5ea&text_color=bdd5ea&bg_color=495867" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GovindNoMore&hide_border=true&background=495867&ring=fe5f55&fire=fe5f55&currStreakLabel=f7f7ff&sideLabels=bdd5ea&dates=bdd5ea&currStreakNum=f7f7ff&sideNums=bdd5ea" height="160"/>
+</p>
 
 ---
 
-*if you've read this far you're legally obligated to check out [nomore.dev](https://nomore-du3nc9gyz-govindgupta54342421-1181s-projects.vercel.app)*
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=495867,577399,bdd5ea&height=100&section=footer&fontColor=f7f7ff" width="100%"/>
+</p>
+
+<p align="center">
+  <sub>if you've read this far, go check out <a href="https://nomore.dev">nomore.dev</a></sub>
+</p>****
