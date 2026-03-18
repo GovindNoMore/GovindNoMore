@@ -30,7 +30,7 @@
 
 </div>
 
-Hello, I'm **Govind** — a 17 year old developer and musician from Faridabad, India.  
+Hello, I'm **Govind** — a 17 year old developer and musician from India.  
 I build things for the web, record covers at 2am, and spend too much time finding music nobody around me has heard of.
 
 > *'programmic' coder. musician with a voice of a horse. invented sleeping while eating, probably.*
