@@ -83,7 +83,7 @@ I build things for the web, record covers at 2am, and spend too much time findin
 | [**nomore.dev**](https://github.com/GovindNoMore/nomore.dev) | personal portfolio — music, code, writing | HTML · CSS · JS · GSAP | 🟢 live |
 | [**MusicScope**](https://github.com/GovindNoMore/MusicScope) | analyses your spotify listening habits | React · Spotify API · Chart.js | 🟢 live |
 | [**StudyDesk**](https://github.com/GovindNoMore/studydesk) | desktop study dashboard | Electron · Node.js | 🟢 active |
-| **RiverLens** |(https://github.com/GovindNoMore/RiverLens)|GIS dashboard that translates river water quality data into plain-English visual summaries.| JavaScript · Python · GIS APIs · Generative AI · Vercel | 🟢 live |
+| [**RiverLens**](https://github.com/GovindNoMore/RiverLens)|GIS dashboard that translates river water quality data into plain-English visual summaries.| JavaScript · Python · GIS APIs · Generative AI · Vercel | 🟢 live |
 
 ---
 
