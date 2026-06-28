@@ -97,7 +97,7 @@ I build things for the web, record covers at 2am, and spend too much time findin
 ```
 $ ./about_govind.sh
 
-hi im govind and this is me not some ai i used to write this, 
+hi im govind, 
 i am not an advanced coder i am currently learning and have been experimenting with various advanced tools lol
 i do know html, css, python, js and sql.
 i am in 12th rn will go to some college ig. 
